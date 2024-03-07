@@ -27,12 +27,12 @@ This Electron widget is designed to provide a draggable and responsive interface
 To get started with this widget, follow these steps:
 
 1. Clone the repository:
+  git clone https://github.com/your-username/electron-widget.git
 
-   
-   git clone https://github.com/your-username/electron-widget.git
-  ##Install dependencies:
+##Install dependencies:
   cd electron-widget
   npm install
+
 Run the application:npm start
 
 Usage
